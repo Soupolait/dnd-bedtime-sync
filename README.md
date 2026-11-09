@@ -1,3 +1,7 @@
+>Side project where I try to move this app to Kotlin + add support for other modes (mainly drive).
+>Beware, this project is started before I have the skills to complete it. I hope to move it alongside of my learning of Kotlin.
+
+
 # DNDSync
 This App was developed to enable synchronization between the smartphone and the **Galaxy Watch 4** of the
 **Do Not Disturb** (*DND*) and **Bedtime mode** from [Digital Wellbeing](https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing&hl=en_US).
